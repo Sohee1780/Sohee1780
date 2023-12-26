@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=welcom%20to%20sohee's%20Github&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=welcom%20to%20sohee's%20Github&fontSize=40&&fontColor=d6ace6)
 
 <!--
 **Sohee1780/Sohee1780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
