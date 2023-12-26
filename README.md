@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/Sohee1780/Sohee1780/assets/128003056/e4331bbe-468a-49da-8e62-465dc64d762a">
 </p>
+
 # Project1. Trent
 C2C 캠핑 대여 사이트 팀 프로젝트(5인)
 
