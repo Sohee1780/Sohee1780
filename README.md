@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=welcom%20to%20sohee's%20Github&fontSize=40&&fontColor=d6ace6)
 
-<img src="https://github.com/Sohee1780/Sohee1780/assets/128003056/e4331bbe-468a-49da-8e62-465dc64d762a">
-
 # Project1. Trent
 C2C 캠핑 대여 사이트 팀 프로젝트(5인)
 
