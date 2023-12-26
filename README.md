@@ -32,6 +32,41 @@ C2C 캠핑 대여 사이트 팀 프로젝트(5인)
 - 쪽지
 - 헤더
 
+- # Project2. 세탁해조
+세탁 수거 배송 서비스 팀 프로젝트(7인)
+
+## 프로젝트 소개
+- 현대 사회에서 세탁소 방문 시간을 확보하기 어려운 사람들을 위한 다양한 세탁서비스 제공
+- 이용자들의 접근성을 고려해 모바일페이지로 제작
+<br>
+
+## 개발 기간
+* 23.08.21일 - 23.09.15일
+
+### 개발 환경
+- Spring boot - 2.7.14
+- Oracle SQL Developer - 11g Enterprise Edition Release
+- Git bash - 2.42.0
+- Java - 11.0.18
+- Thymeleaf - 3.1.2
+- MyBatis - 2.3.1
+- Apache Tomcat - 9.0.78
+- IntelliJ - 2023.2.1
+
+## 주요 기능
+- 로그인, 회원가입
+- 마이페이지
+- 주문, 주문 상세 및 결제
+- 서비스 구독
+- 상품검수
+- 배달
+- 
+## What I Did
+- ERD 다이어그램 작성
+- 화면단 작업 - 세탁패스, 로그인, 검수자, 회원가입
+- 정기결제 기능
+- 상품검수 기능
+
 <!--
 **Sohee1780/Sohee1780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
