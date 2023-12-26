@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=welcom%20to%20sohee's%20Github&fontSize=40&&fontColor=d6ace6)
 
 # Project1. Trent
-C2C 캠핑 대여 사이트 팀 프로젝트(5인)
+C2C 캠핑 대여 사이트 팀 프로젝트(5인) [프로젝트 상세보기](https://www.notion.so/Trent-94f87b0b72674262ab873f1281084b23)
 
 ## 프로젝트 소개
 높아지는 캠핑의 인기에 고가의 캠핑 장비를 모두 구매하기 부담스러운 고객들과 캠핑 장비 구매 후 집에 보관하고있는 고객들을 연결해 대여 서비스를 이용할 수 있는 웹사이트
